@@ -17,11 +17,37 @@ a {
   text-decoration: none;
 }
 
-.banner {
+.index-banner {
   background-image: url(../images/table.jpg);
-  min-height: 600px;
+  min-height: 560px;
   background-size: cover;
   background-position: 50% 0%;
+}
+
+.tour-banner {
+  background-image: url(../images/beanbagchair.jpg);
+  min-height: 560px;
+  background-size: cover;
+  background-position: 63% 0%;
+}
+
+.pricing-banner {
+  background-image: url(../images/table2.jpg);
+  min-height: 560px;
+  background-size: cover;
+  background-position: 50% 0%;
+}
+
+.sign-up-banner {
+  background-image: url(../images/lights.jpg);
+  min-height: 560px;
+  background-size: cover;
+  background-position: 50% 0%;
+}
+
+.banner-text {
+  background-color: rgba(217, 215, 229, .5);
+  border-radius: 6px;
 }
 
 h1 {
