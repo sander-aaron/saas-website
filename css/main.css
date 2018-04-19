@@ -72,6 +72,23 @@ p {
   color: #F3F1F2
 }
 
+th {
+  border: none;
+}
+
+td {
+  border: none
+}
+
+.prices {
+  background-color: #698B9B;
+  color: #F3F1F2
+}
+
+thead {
+  background-color: #353555;
+}
+
 .btn {
   color: #F3F1F2;
   background-color: #353555;
@@ -80,5 +97,9 @@ p {
 
 footer {
   background-color: #353555;
+  color: #F3F1F2;
+}
+
+i {
   color: #F3F1F2;
 }
