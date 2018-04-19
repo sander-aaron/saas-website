@@ -3,13 +3,29 @@ html {
   font-family: 'Ubuntu', sans-serif;
 }
 
+header {
+  background-color: #353555;
+}
+
 nav {
   background-color: #353555;
 }
 
+
 a {
   color: #F3F1F2;
   text-decoration: none;
+}
+
+.banner {
+  background-image: url(../images/table.jpg);
+  min-height: 600px;
+  background-size: cover;
+  background-position: 50% 0%;
+}
+
+h1 {
+
 }
 
 h2 {
