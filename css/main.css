@@ -11,10 +11,14 @@ nav {
   background-color: #353555;
 }
 
-
 a {
   color: #F3F1F2;
   text-decoration: none;
+}
+
+a.nav:hover {
+  background-color: #698B9B;
+  border-radius: 6px;
 }
 
 .index-banner {
@@ -72,4 +76,9 @@ p {
   color: #F3F1F2;
   background-color: #353555;
   border-color: #353555;
+}
+
+footer {
+  background-color: #353555;
+  color: #F3F1F2;
 }
