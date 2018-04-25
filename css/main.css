@@ -72,6 +72,10 @@ p {
   color: #F3F1F2
 }
 
+.blue {
+  background-color: #698B9B;
+}
+
 th {
   border: none;
 }
@@ -82,7 +86,7 @@ td {
 
 .prices {
   background-color: #698B9B;
-  color: #F3F1F2
+  color: #F3F1F2;
 }
 
 thead {
