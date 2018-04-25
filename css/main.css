@@ -22,28 +22,28 @@ a.nav:hover {
 }
 
 .index-banner {
-  background-image: url(../images/table.jpg);
+  background-image: url("../images/table.jpg");
   min-height: 560px;
   background-size: cover;
   background-position: 50% 0%;
 }
 
 .tour-banner {
-  background-image: url(../images/beanbagchair.jpg);
+  background-image: url("../images/beanbagchair.jpg");
   min-height: 560px;
   background-size: cover;
   background-position: 63% 0%;
 }
 
 .pricing-banner {
-  background-image: url(../images/table2.jpg);
+  background-image: url("../images/table2.jpg");
   min-height: 560px;
   background-size: cover;
   background-position: 50% 0%;
 }
 
 .sign-up-banner {
-  background-image: url(../images/lights.jpg);
+  background-image: url("../images/lights.jpg");
   min-height: 560px;
   background-size: cover;
   background-position: 50% 0%;
