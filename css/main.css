@@ -17,7 +17,7 @@ a {
 }
 
 a.nav:hover {
-  background-color: #698b9b;
+  background-color: #346c87;
   border-radius: 6px;
 }
 
@@ -68,12 +68,12 @@ h3 {
 }
 
 p {
-  background-color: #698b9b;
+  background-color: #346c87;
   color: #f3f1f2;
 }
 
 .blue {
-  background-color: #698b9b;
+  background-color: #346c87;
 }
 
 th {
@@ -85,7 +85,7 @@ td {
 }
 
 .prices {
-  background-color: #698b9b;
+  background-color: #346c87;
   color: #f3f1f2;
 }
 
