@@ -1,6 +1,6 @@
 html {
-  background-color: #F3F1F2;
-  font-family: 'Ubuntu', sans-serif;
+  background-color: #f3f1f2;
+  font-family: Ubuntu, sans-serif;
 }
 
 header {
@@ -12,12 +12,12 @@ nav {
 }
 
 a {
-  color: #F3F1F2;
+  color: #f3f1f2;
   text-decoration: none;
 }
 
 a.nav:hover {
-  background-color: #698B9B;
+  background-color: #698b9b;
   border-radius: 6px;
 }
 
@@ -63,17 +63,17 @@ h2 {
 }
 
 h3 {
-  color: #F3F1F2;
+  color: #f3f1f2;
   background-color: #353555;
 }
 
 p {
-  background-color: #698B9B;
-  color: #F3F1F2
+  background-color: #698b9b;
+  color: #f3f1f2;
 }
 
 .blue {
-  background-color: #698B9B;
+  background-color: #698b9b;
 }
 
 th {
@@ -81,12 +81,12 @@ th {
 }
 
 td {
-  border: none
+  border: none;
 }
 
 .prices {
-  background-color: #698B9B;
-  color: #F3F1F2;
+  background-color: #698b9b;
+  color: #f3f1f2;
 }
 
 thead {
@@ -94,16 +94,16 @@ thead {
 }
 
 .btn {
-  color: #F3F1F2;
+  color: #f3f1f2;
   background-color: #353555;
   border-color: #353555;
 }
 
 footer {
   background-color: #353555;
-  color: #F3F1F2;
+  color: #f3f1f2;
 }
 
 i {
-  color: #F3F1F2;
+  color: #f3f1f2;
 }
